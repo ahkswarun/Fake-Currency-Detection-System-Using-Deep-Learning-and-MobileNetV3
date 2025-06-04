@@ -7,6 +7,7 @@ Model Architecture: A CNN is built using Keras' Sequential API with layers like 
 Training: The model is trained over 10 epochs and evaluated using metrics like accuracy and loss.
 Visualization: Training performance is visualized using matplotlib.
 Prediction: The trained model is used to predict on unseen test data.
+
 🚀 Technologies Used
 Python
 TensorFlow & Keras
